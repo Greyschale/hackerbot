@@ -3,7 +3,7 @@
 
 ## Installation
 1. Clone the repo:
-  `git clone git://blahblahblah`
+  `git clone git@github.com:Greyschale/hackerbot.git`
 1. Bundle:
   `bundle install`
 1. Go!
