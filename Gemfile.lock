@@ -1,10 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    concurrent-ruby (1.1.6)
-    faker (2.13.0)
+    concurrent-ruby (1.1.8)
+    faker (2.17.0)
       i18n (>= 1.6, < 2)
-    i18n (1.8.3)
+    i18n (1.8.9)
       concurrent-ruby (~> 1.0)
     mustermann (1.0.3)
     rack (2.2.3)
